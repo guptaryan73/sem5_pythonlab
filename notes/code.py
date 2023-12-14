@@ -1,0 +1,5 @@
+b =int(input("enter second number"))
+c =add(a,b)
+print("Enter second number")
+c =add (a,b)
+print('Sum')
